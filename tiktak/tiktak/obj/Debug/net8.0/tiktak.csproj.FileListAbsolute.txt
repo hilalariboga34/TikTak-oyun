@@ -1,0 +1,14 @@
+C:\Users\HİLAL ARIBOĞA\Source\Repos\tiktak\tiktak\bin\Debug\net8.0\tiktak.exe
+C:\Users\HİLAL ARIBOĞA\Source\Repos\tiktak\tiktak\bin\Debug\net8.0\tiktak.deps.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\tiktak\tiktak\bin\Debug\net8.0\tiktak.runtimeconfig.json
+C:\Users\HİLAL ARIBOĞA\Source\Repos\tiktak\tiktak\bin\Debug\net8.0\tiktak.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\tiktak\tiktak\bin\Debug\net8.0\tiktak.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\tiktak\tiktak\obj\Debug\net8.0\tiktak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HİLAL ARIBOĞA\Source\Repos\tiktak\tiktak\obj\Debug\net8.0\tiktak.AssemblyInfoInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\tiktak\tiktak\obj\Debug\net8.0\tiktak.AssemblyInfo.cs
+C:\Users\HİLAL ARIBOĞA\Source\Repos\tiktak\tiktak\obj\Debug\net8.0\tiktak.csproj.CoreCompileInputs.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\tiktak\tiktak\obj\Debug\net8.0\tiktak.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\tiktak\tiktak\obj\Debug\net8.0\refint\tiktak.dll
+C:\Users\HİLAL ARIBOĞA\Source\Repos\tiktak\tiktak\obj\Debug\net8.0\tiktak.pdb
+C:\Users\HİLAL ARIBOĞA\Source\Repos\tiktak\tiktak\obj\Debug\net8.0\tiktak.genruntimeconfig.cache
+C:\Users\HİLAL ARIBOĞA\Source\Repos\tiktak\tiktak\obj\Debug\net8.0\ref\tiktak.dll
